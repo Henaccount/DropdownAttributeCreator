@@ -1,0 +1,20 @@
+{
+  "projectId": "b.b23c004e-b8af-48a2-91b1-7b0910e9572e",
+  "folderIdTemplate": "urn:adsk.wipprod:fs.folder:co.{0}",
+  "scopes": ["data:read", "data:write"],
+  "folders": [
+    {
+      "folderId": "urn:adsk.wipprod:fs.folder:co.MhHYDH_4Sf6mUfleYgLnAA",
+      "attributes": [
+        {
+          "name": "Discipline",
+          "values": ["Architecture", "Structure", "MEP"]
+        },
+        {
+          "name": "Maschine",
+          "values": ["masch1", "masch2", "masch3"]
+        }
+      ]
+    }
+  ]
+}
