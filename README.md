@@ -1,5 +1,6 @@
 <pre>
-
+Sample Code, AI generated, use at own risk!
+  
 ACC Dropdown Attribute Tool - PowerShell 5.1 version
 ===================================================
 
