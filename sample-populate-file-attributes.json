@@ -1,0 +1,9 @@
+{
+  "mode": "populate-file-attributes-from-folders",
+  "projectId": "b.b23c004e-b8af-48a2-91b1-7b0910e9572e",
+  "rootFolderId": "urn:adsk.wipprod:fs.folder:co.GmVuvd08QVqAgCM4TmURWg",
+  "customerAttributeName": "TheCustomer",
+  "machineAttributeName": "TheMachine",
+  "machineFolderNamePattern": "^\\d{3}\\.\\d{3}\\.\\d{3}$",
+  "scopes": ["data:read", "data:write"]
+}

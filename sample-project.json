@@ -1,18 +1,15 @@
 {
-  "projectId": "b.b23c004e-b8af-48a2-91b1-7b0910e9572e",
+  "mode": "create-dropdown-definitions",
+  "projectId": "b.YOUR_PROJECT_ID_OR_GUID",
   "folderIdTemplate": "urn:adsk.wipprod:fs.folder:co.{0}",
   "scopes": ["data:read", "data:write"],
   "folders": [
     {
-      "folderId": "urn:adsk.wipprod:fs.folder:co.MhHYDH_4Sf6mUfleYgLnAA",
+      "folderId": "urn:adsk.wipprod:fs.folder:co.FOLDER_ID",
       "attributes": [
         {
-          "name": "Discipline",
-          "values": ["Architecture", "Structure", "MEP"]
-        },
-        {
-          "name": "Maschine",
-          "values": ["masch1", "masch2", "masch3"]
+          "name": "Status",
+          "values": ["Draft", "For Review", "Approved"]
         }
       ]
     }

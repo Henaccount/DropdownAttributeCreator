@@ -1,5 +1,3 @@
 @echo off
-setlocal
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Create-AccDropdownAttributes.ps1"
-echo.
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0AccAttributeTool.ps1"
 pause
